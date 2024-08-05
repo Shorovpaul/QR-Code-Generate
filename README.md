@@ -2,9 +2,9 @@
 QR Code Generate In Python
 Introduction:
 
-    Purpose: Explain the purpose of the project, which is to create a tool that generates QR codes from user-provided data.
-    Technology: Mention the use of Python and the qrcode library to accomplish the task.
-    Applications: Discuss the practical applications of QR codes, such as sharing URLs, contact information, Wi-Fi passwords, and more.
+ Purpose: Explain the purpose of the project, which is to create a tool that generates QR codes from user-provided data.
+Technology: Mention the use of Python and the qrcode library to accomplish the task.
+ Applications: Discuss the practical applications of QR codes, such as sharing URLs, contact information, Wi-Fi passwords, and more.
 
 Initialization:
 Environment Setup: Describe the steps to set up the Python environment, including installing necessary packages using pip (pip install qrcode).
